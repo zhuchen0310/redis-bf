@@ -24,7 +24,7 @@ pip 安装
 
 需要结合apollo使用
 
-- 协程apollo
+- 携程 apollo
     https://github.com/ctripcorp/apollo
 
 - 布隆过滤器 redis key
